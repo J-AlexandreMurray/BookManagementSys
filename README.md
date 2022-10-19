@@ -17,10 +17,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/J-AlexandreMurray/BookManagementSys">
-    <img src="preview/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/digBooks.jpg" alt="Logo" width="160" height="100">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Book Management System</h3>
 
   <p align="center">
     project_description
@@ -55,12 +55,10 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -79,7 +77,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [](C++)
+* [](Cplusplus)
 * [](Visual Studio Code)
 
 
