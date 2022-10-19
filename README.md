@@ -77,8 +77,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [](Cplusplus)
-* [](Visual Studio Code)
+* [C++]()
+* [Visual Studio Code]()
 
 
 <!-- LIVE DEMO -->
