@@ -69,11 +69,8 @@
 
 [![Product Name Screen Shot](preview/preview.png)](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+This project is a management system designed for me to keep track of general information about a book within an inventory space. It is meant for anyone who wishes to keep a track of the books they are looking for, purchased, or already collected. As a soon-to-be self published short read author, I would like to have inventory on a collection of my own books as well as others in my family and some I come across in life. I plan to build on this project even more and connect it to a database as well as my own indie author website.  
 
 ### Built With
 
