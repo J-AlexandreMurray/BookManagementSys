@@ -1,26 +1,14 @@
 
-<br>
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-<!-- CHANGE THE LINKS AS PER YOUR REQUIREMENTS -->
-<!-- YOU CAN REFER TO DEFAULT README PAGE FOR REFERENCE -->
-<!-- COLOR OF THE BADGES CAN ALSO BE MODIFIED BY ALTERING THE LINKS -->
-
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
-![](https://img.shields.io/github/forks/github_usernane/github_repo)
-![](https://img.shields.io/github/contributors/github_usernane/github_repo)
-![](https://img.shields.io/github/issues/github_usernane/github_repo)
-![](https://img.shields.io/github/stars/github_usernane/github_repo)
+![](https://img.shields.io/github/forks/J-AlexandreMurray/BookManagementSys)
+![](https://img.shields.io/github/contributors/J-AlexandreMurray/BookManagementSys)
+![](https://img.shields.io/github/issues/J-AlexandreMurray/BookManagementSys)
+![](https://img.shields.io/github/stars/J-AlexandreMurray/BookManagementSys)
 
 ![](https://img.shields.io/badge/Contributions-Accepting-pink)
-![](https://img.shields.io/github/license/github_usernane/github_repo)
-[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.example.com)
-
+![](https://img.shields.io/github/license/J-AlexandreMurray/BookManagementSys)
 <br>
 
 
@@ -28,7 +16,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/J-AlexandreMurray/BookManagementSys">
     <img src="preview/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -37,12 +25,12 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/J-AlexandreMurray/BookManagementSys"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/J-AlexandreMurray/BookManagementSys/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/J-AlexandreMurray/BookManagementSys/issues">Request Feature</a>
   </p>
 </p>
 
@@ -91,8 +79,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* [](C++)
+* [](Visual Studio Code)
 
 
 <!-- LIVE DEMO -->
@@ -120,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/J-AlexandreMurray/BookManagementSys.git
    ```
 2. Install NPM packages
    ```sh
@@ -128,20 +116,10 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/J-AlexandreMurray/BookManagementSys/issues) for a list of proposed features (and known issues).
 
 
 
@@ -168,17 +146,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@ProjectZilart](https://twitter.com/ProjectZilart) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-
-
+Project Link: [https://github.com/github_username/repo_name](https://github.com/J-AlexandreMurray/BookManagementSys)
 
