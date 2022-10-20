@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ProjectZilart](https://twitter.com/ProjectZilart)
+J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
 Project Link: [https://github.com/J-AlexandreMurray/BookManagementSys](https://github.com/J-AlexandreMurray/BookManagementSys)
 
