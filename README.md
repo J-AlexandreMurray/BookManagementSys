@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](preview/preview.png)](https://example.com)
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/MenuSelec.PNG)
 
 
 This project is a management system designed for me to keep track of general information about a book within an inventory space. It is meant for anyone who wishes to keep a track of the books they are looking for, purchased, or already collected. As a soon-to-be self published short read author, I would like to have inventory on a collection of my own books as well as others in my family and some I come across in life. I plan to build on this project even more and connect it to a database as well as my own indie author website.  
@@ -79,6 +79,9 @@ This project is a management system designed for me to keep track of general inf
 
 
 <!-- LIVE DEMO -->
+
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/MenuSelec1.PNG)
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/MenuSelec3.PNG)
 
 ## Live Demo
 
