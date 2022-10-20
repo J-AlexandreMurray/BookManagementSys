@@ -85,8 +85,8 @@ This project is a management system designed for me to keep track of general inf
 
 ## Live Demo
 
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/BMSgif.gif)
 [Live Demo Link](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/BMSgif.gif)
-
 
 <!-- GETTING STARTED -->
 
