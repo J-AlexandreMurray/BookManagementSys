@@ -85,7 +85,7 @@ This project is a management system designed for me to keep track of general inf
 
 ## Live Demo
 
-[Live Demo Link](https://example.com)
+[Live Demo Link](https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BMSimages/BMSgif.gif)
 
 
 <!-- GETTING STARTED -->
@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ProjectZilart](https://twitter.com/ProjectZilart) - email
+Your Name - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/J-AlexandreMurray/BookManagementSys)
+Project Link: [https://github.com/J-AlexandreMurray/BookManagementSys](https://github.com/J-AlexandreMurray/BookManagementSys)
 
