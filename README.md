@@ -23,7 +23,7 @@
   <h3 align="center">Book Management System</h3>
 
   <p align="center">
-    project_description
+    System designed to keep track of book item inventory. 
     <br />
     <a href="https://github.com/J-AlexandreMurray/BookManagementSys"><strong>Explore the docs »</strong></a>
     <br />
