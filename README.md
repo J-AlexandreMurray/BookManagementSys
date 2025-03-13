@@ -148,3 +148,114 @@ J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
 Project Link: [https://github.com/J-AlexandreMurray/BookManagementSys](https://github.com/J-AlexandreMurray/BookManagementSys)
 
+‐-------------------------------------------------------------------------------------
+# This project will be heavily updated soon and become what is shown below...
+‐-------------------------------------------------------------------------------------
+
+# 📚 BookVault: Book Management Micro SaaS
+
+BookVault is a **mobile-first** Flutter-based application designed for **readers** and **book collectors** to track, organize, and interact with their personal libraries.
+
+## 🚀 Project Overview
+
+BookVault helps users:
+- Catalog and manage their **book collections** with detailed metadata.
+- Track **reading progress** and personal notes.
+- Organize by **genre, author, and custom categories**.
+- Share book recommendations and wishlists.
+- Export and back up book data for easy migration.
+
+## 📱 Key Features (MVP)
+
+- **Book Cataloging:** Add, edit, and track books with key information (title, author, genre, ISBN, etc.).
+- **Reading Progress:** Log reading status (To-Read, In Progress, Completed).
+- **Custom Tags & Categories:** Organize books with user-defined tags and categories.
+- **Data Export/Import:** Export collections to JSON/CSV and import from similar formats.
+- **Wishlist Management:** Create and manage a list of books to acquire.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend:** Local storage (Hive/SQLite for MVP)
+- **State Management:** Riverpod (TBD)
+- **Deployment:** Android, iOS, Web (later stage)
+
+## 📂 Project Structure
+
+```
+bookvault/
+├── lib/
+│    ├── main.dart          # App entry point
+│    ├── screens/           # UI screens
+│    │      ├── home.dart
+│    │      ├── book_list.dart
+│    │      └── add_book.dart
+│    ├── models/            # Data models
+│    │      ├── book.dart
+│    │      └── category.dart
+│    ├── services/          # Data handling (Hive/SQLite)
+│    └── providers/         # State management
+│
+├── test/                   # Unit and widget tests
+└── README.md
+```
+
+## 🧑‍💻 Setup Instructions
+
+1. **Clone the Repository:**
+
+```
+git clone <repo_url>
+cd bookvault
+```
+
+2. **Install Flutter Dependencies:**
+
+```
+flutter pub get
+```
+
+3. **Run the App:**
+
+```
+flutter run
+```
+
+## 📈 Roadmap
+
+### Week 1:
+- Set up **Flutter** environment and project scaffold.
+- Implement basic **book** CRUD (Create, Read, Update, Delete).
+
+### Week 2:
+- Build **reading progress** tracking and category management.
+- Add **local storage** using Hive or SQLite.
+
+### Week 3:
+- Implement **wishlist** and user-defined tags.
+- Introduce **data export** (JSON/CSV) functionality.
+
+### Week 4:
+- Implement **import** from JSON/CSV.
+- Perform UI refinements and initial tests.
+
+### Week 5:
+- Finalize testing and bug fixes.
+- Prepare for **GitHub release** and documentation.
+
+## 📣 Contribution Guidelines
+
+1. Fork the repository and create a feature branch.
+2. Submit pull requests with clear commit messages.
+3. Ensure code is formatted and tested.
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+## 📧 Contact
+
+For questions or contributions, open an **issue** or **pull request** on GitHub.
+
+
+
